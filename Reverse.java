@@ -8,6 +8,7 @@ public class Reverse {
             System.out.print(str.charAt(i));
 
         }
+        System.out.println("AAMUDAY");
     }
 }
 
